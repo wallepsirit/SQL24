@@ -1,0 +1,3 @@
+SELECT * FROM SinhVien  WHERE MaKH LIKE 'AV'
+GO
+GO 

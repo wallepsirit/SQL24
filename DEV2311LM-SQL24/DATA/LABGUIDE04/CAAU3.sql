@@ -1,0 +1,2 @@
+SELECT * FROM SinhVien ORDER BY TenSV DESC
+GO

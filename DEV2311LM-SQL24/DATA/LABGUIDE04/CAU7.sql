@@ -1,0 +1,2 @@
+SELECT * FROM Khoa WHERE TenKH LIKE'_N%'
+GO

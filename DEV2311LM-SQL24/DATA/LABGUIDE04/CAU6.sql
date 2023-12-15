@@ -1,0 +1,2 @@
+SELECT * FROM SinhVien WHERE TenSV LIKE'%I'
+GO
